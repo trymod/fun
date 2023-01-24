@@ -1,0 +1,46 @@
+p {
+  font-family: Open sans;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.title-01 {
+  font-family: Unbounded;
+  font-weight: 900;
+  line-height:32px;
+  margin-bottom: 16px;
+  font-size: 32px;
+  width: 400px;
+}
+
+.title-02 {
+  font-size: 21px;
+  color: rgb(77, 77, 77);
+  margin-bottom:5px;
+}
+
+.title-03 {
+  font-size: 14px;
+  width: 350px;
+  color: rgb(226, 33, 59);
+  line-height: normal;
+  margin-top: 23px;
+}
+
+.title-04 {
+  margin-top: 50px;
+  font-size: 18px;
+  background-color: rgba(250, 44, 44, 0.788);
+  color: white;
+  text-align: center;
+  padding: 20px;
+  width: 700px;
+}
+
+.word-01 {
+  cursor: pointer;  
+}
+
+.word-01:hover {
+  text-decoration: underline;
+}
